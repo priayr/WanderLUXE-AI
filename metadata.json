@@ -1,0 +1,9 @@
+{
+  "name": "WanderLuxe AI",
+  "description": "A comprehensive AI-powered travel platform for tourists and tour operators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
